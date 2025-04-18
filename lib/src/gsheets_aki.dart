@@ -301,7 +301,9 @@ class GSheets {
 }
 
 enum ValueRenderOption { formattedValue, unformattedValue, formula }
+
 enum ValueInputOption { userEntered, raw }
+
 enum ExportFormat { xlsx, csv, pdf }
 
 /// Class containing additional [Spreadsheet] data

@@ -1,6 +1,6 @@
 import 'package:googleapis_auth/auth_io.dart';
 
-import 'gsheets.dart';
+import 'gsheets_aki.dart';
 
 abstract class GSheetsAuth {
   const GSheetsAuth._();

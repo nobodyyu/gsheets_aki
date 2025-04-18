@@ -1,4 +1,4 @@
-import 'package:gsheets/gsheets.dart';
+import 'package:gsheets_aki/gsheets_aki.dart';
 import 'package:test/test.dart';
 
 const gsheetsCellsLimit = 5000000;

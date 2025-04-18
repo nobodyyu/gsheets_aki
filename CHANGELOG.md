@@ -1,3 +1,7 @@
+## 0.5.1
+
+flutter pub upgrade to 3.29.2
+
 ## 0.5.0
 
 - Bump versions of dart and some dependencies

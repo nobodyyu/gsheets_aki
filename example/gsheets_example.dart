@@ -1,4 +1,4 @@
-import 'package:gsheets/gsheets.dart';
+import 'package:gsheets/gsheets_aki.dart';
 
 /// Your google auth credentials
 ///
